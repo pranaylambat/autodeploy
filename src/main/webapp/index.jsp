@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins with Nagesh Shende NAgpur</h1>
       <h2 class="text-center">Now you are with AMIT MEHAR</h2>
-      <h3 class="text-center">Bhokat mahale lahan</h3>
+      <h3 class="text-center">Bhokat mahale mothi</h3>
   </div>
 </body>
 </html>
